@@ -1,4 +1,4 @@
-# 18.06
+# Math18.06
 Math: Linear Algebra (Massachusetts Institute of Technology)
 
 This repository includes the homework assignments and exams for course MATH 18.06 at MIT along with my answers to the problems. The full course can be found at:
